@@ -1,0 +1,13 @@
+{
+  "name": "shiprocket-sms-webhook",
+  "version": "1.0.0",
+  "description": "Webhook listener to send SMS via Fast2SMS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.4.0"
+  }
+}
